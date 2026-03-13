@@ -151,7 +151,11 @@ PORT     SERVICE
 
 📷 Evidência:
 
-[]
+![Print 00](https://github.com/FredOnBrasil/Brute-Force-Attack-Lab-Kali-Linux-Medusa-BootCamp-Cyberseguranca/blob/main/Imagens/00.png)
+
+---
+
+![Print 01](https://github.com/FredOnBrasil/Brute-Force-Attack-Lab-Kali-Linux-Medusa-BootCamp-Cyberseguranca/blob/main/Imagens/01.png)
 
 ---
 
@@ -216,10 +220,6 @@ Host: 192.168.56.102
 User: msfadmin
 Password: msfadmin
 ```
-
-📷 Evidência:
-
-[]
 
 ---
 
